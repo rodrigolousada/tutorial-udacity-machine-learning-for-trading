@@ -20,3 +20,13 @@ If a company is required to file reports with the SEC, it may notify its shareho
 
 ## DIVIDEND
 A portion of a company's profit paid to shareholders. Public companies that pay dividends usually do so on a fixed schedule although they can issue them at any time. Unscheduled dividend payments are known as special dividends or extra dividends.
+
+
+## How many days were US stocks traded at NYSE in 2014?
+Answer: 252 (365 - NYSE holidays)
+[(Source)](https://www.nyse.com/markets/hours-calendars)
+
+## S&P 500
+S&P 500 is a stock market index based on 500 large American companies listed on the NYSE or NASDAQ. Think of it as a weighted mean of the stock prices of the companies, where the number of shares are used as weights (with some adjustment for any events that may affect apparent stock value, such as splits).
+
+SPDR® S&P 500 is an ETF (or exchange-traded fund) that tracks the S&P 500 index, and is itself listed on NYSE under the ticker symbol "SPY".
