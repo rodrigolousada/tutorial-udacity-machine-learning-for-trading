@@ -53,11 +53,11 @@ def normalize_data(df):
     """Normalize stock prices using the first row of the dataframe."""
     return df / df.ix[0,:]
 
-def plot_data(df, title="Stock prices"):
+def plot_data(df, title="Stock prices", xlabel="Date", ylabel="Price"):
     """Plot stock prices with a custom title and meaningful axis labels."""
     ax = df.plot(title=title, fontsize=12)
-    ax.set_xlabel("Date")
-    ax.set_ylabel("Price")
+    ax.set_xlabel(xlabel)
+    ax.set_ylabel(ylabel)
     plt.show() # must be called to show plots in some environments
 
 def dataframe_builder():
