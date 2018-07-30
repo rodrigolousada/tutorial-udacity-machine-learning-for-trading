@@ -27,6 +27,9 @@ Answer: 252 (365 - NYSE holidays)
 [(Source)](https://www.nyse.com/markets/hours-calendars)
 
 ## S&P 500
-S&P 500 is a stock market index based on 500 large American companies listed on the NYSE or NASDAQ. Think of it as a weighted mean of the stock prices of the companies, where the number of shares are used as weights (with some adjustment for any events that may affect apparent stock value, such as splits).
+S&P 500 (Standard & Poor's selection of 500 large publicly-traded companies) is a stock market index based on 500 large American companies listed on the NYSE or NASDAQ. Think of it as a weighted mean of the stock prices of the companies, where the number of shares are used as weights (with some adjustment for any events that may affect apparent stock value, such as splits).
 
 SPDR® S&P 500 is an ETF (or exchange-traded fund) that tracks the S&P 500 index, and is itself listed on NYSE under the ticker symbol "SPY".
+
+## ETF
+An ETF or Exchange-Traded Fund is a basket of equities allocated in such a way that the overall portfolio tracks the performance of a stock exchange index. ETFs can be bought and sold on the market like shares.
